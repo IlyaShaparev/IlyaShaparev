@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="My Instagram Account"/>
     </a>
   </div>
-  <!-- <img src="https://komarev.com/ghpvc/?username=IlyaShaparev&style=flat-circle&color=red" alt="ViewsCounter"/> -->
+  <img src="https://komarev.com/ghpvc/?username=IlyaShaparev&style=flat-circle&color=red" alt="ViewsCounter"/>
   <h1>
     Hello World!
     <img src="https://media.giphy.com/media/QynPOjBgLR5Ryg1qKJ/giphy.gif" alt="hi"/ width="40">
