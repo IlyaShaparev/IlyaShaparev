@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Student :man_student: from Moskow
+I am a Student :man_student: from Mosсow
 
 - I am studying for a specialty - software engineering in MIREA :school:
 - Exploring application development technologies :telescope:
