@@ -56,4 +56,4 @@ I am a Student :man_student: from Mosсow
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlyaShaparev&theme=elegant)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaShaparev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaShaparev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
